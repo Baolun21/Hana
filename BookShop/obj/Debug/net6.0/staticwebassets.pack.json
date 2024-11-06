@@ -1,0 +1,241 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\0016a2a4-b26c-478a-9109-10232529c063_hoacuoii3.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\0016a2a4-b26c-478a-9109-10232529c063_hoacuoii3.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\190b2841-ec3f-4edf-8821-ee47544239cf_hoahop.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\190b2841-ec3f-4edf-8821-ee47544239cf_hoahop.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\1d5dc9ce-93c4-4e24-83d1-d68007dad9ef_hoanam.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\1d5dc9ce-93c4-4e24-83d1-d68007dad9ef_hoanam.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\27810373-6a73-4029-bd3f-62fb5f7c9d43_2010.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\27810373-6a73-4029-bd3f-62fb5f7c9d43_2010.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\2c9fde0a-fa52-43d9-8484-6963eef1ddc1_aHR0cHM6Ly9wb2VtZmxvd2Vycy5zZ3AxLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vd2ViZWNvbS8yMDIzLzA5L2EyZTZhYzE4MzhmMTgzODcwYWJjYjJiYzM1ZDIzYTdkLmpwZw.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\2c9fde0a-fa52-43d9-8484-6963eef1ddc1_aHR0cHM6Ly9wb2VtZmxvd2Vycy5zZ3AxLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vd2ViZWNvbS8yMDIzLzA5L2EyZTZhYzE4MzhmMTgzODcwYWJjYjJiYzM1ZDIzYTdkLmpwZw.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\3b0c2249-9459-4510-b222-7744e46d4398_hoacuon1.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\3b0c2249-9459-4510-b222-7744e46d4398_hoacuon1.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\53fb7ab5-bc07-4606-82e6-dd760c88c85e_aHR0cHM6Ly9wb2VtZmxvd2Vycy5zZ3AxLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vd2ViZWNvbS8yMDIzLzExL2MyZDBlOTJlNGUwYjY0MWM1ZjJlMDc2NmUzNzkzNzI0LmpwZw.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\53fb7ab5-bc07-4606-82e6-dd760c88c85e_aHR0cHM6Ly9wb2VtZmxvd2Vycy5zZ3AxLmRpZ2l0YWxvY2VhbnNwYWNlcy5jb20vd2ViZWNvbS8yMDIzLzExL2MyZDBlOTJlNGUwYjY0MWM1ZjJlMDc2NmUzNzkzNzI0LmpwZw.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\58f33b03-2622-44f5-acad-499fc610ce34_hb3.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\58f33b03-2622-44f5-acad-499fc610ce34_hb3.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\5fc10350-7329-4a29-b2a0-92ead248660a_hoacuoi4.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\5fc10350-7329-4a29-b2a0-92ead248660a_hoacuoi4.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\7943c962-062d-4aab-860a-bc1ef7e2cb68_lanhodiep.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\7943c962-062d-4aab-860a-bc1ef7e2cb68_lanhodiep.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\93ab06ec-dbea-4b1f-8a46-0f331d2b7234_haocuoi.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\93ab06ec-dbea-4b1f-8a46-0f331d2b7234_haocuoi.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\9ba7a5e3-12b0-4a79-ba7a-74cf6bed65a4_hoagio2.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\9ba7a5e3-12b0-4a79-ba7a-74cf6bed65a4_hoagio2.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\a09248d4-2ffe-47af-b3fd-20c55ecc2cfa_langhoachiabuon01.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\a09248d4-2ffe-47af-b3fd-20c55ecc2cfa_langhoachiabuon01.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\b7f52b8b-bc5d-43c4-911d-a635989df690_hb4.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\b7f52b8b-bc5d-43c4-911d-a635989df690_hb4.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\c33e734d-3e20-4862-a36e-ab2fa698e508_hoacuoicam.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\c33e734d-3e20-4862-a36e-ab2fa698e508_hoacuoicam.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\c34c13cf-3df9-4000-8589-00a13f7f5211_hoachucmung.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\c34c13cf-3df9-4000-8589-00a13f7f5211_hoachucmung.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\c4a6a8b3-2977-4373-8650-6332df9d31ef_hoagio2.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\c4a6a8b3-2977-4373-8650-6332df9d31ef_hoagio2.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\cbbac72f-e481-4c41-83e2-7b0bd9c76309_hoabuon2.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\cbbac72f-e481-4c41-83e2-7b0bd9c76309_hoabuon2.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\cf392337-35d2-4d97-8ea1-2f6296e95619_hoacuoi2.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\cf392337-35d2-4d97-8ea1-2f6296e95619_hoacuoi2.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\d346bc50-2c79-42aa-83c6-08ce90fe9938_hoacuoi1.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\d346bc50-2c79-42aa-83c6-08ce90fe9938_hoacuoi1.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\da5b4979-26c2-4834-990a-0712f0876130_hoagiotangme.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\da5b4979-26c2-4834-990a-0712f0876130_hoagiotangme.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProduct\\fb78d2b3-eea0-4b40-b909-36393f9547dd_anhhoany.webp",
+      "PackagePath": "staticwebassets\\imgProduct\\fb78d2b3-eea0-4b40-b909-36393f9547dd_anhhoany.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProfile\\150.png",
+      "PackagePath": "staticwebassets\\imgProfile\\150.png"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\imgProfile\\avatar.png",
+      "PackagePath": "staticwebassets\\imgProfile\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\img\\anhnen3.webp",
+      "PackagePath": "staticwebassets\\img\\anhnen3.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\img\\anhnenhoa.jpg",
+      "PackagePath": "staticwebassets\\img\\anhnenhoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\img\\anhnennam.jpg",
+      "PackagePath": "staticwebassets\\img\\anhnennam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\img\\carousel-1.webp",
+      "PackagePath": "staticwebassets\\img\\carousel-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\img\\carousel-2.webp",
+      "PackagePath": "staticwebassets\\img\\carousel-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\img\\carousel-3.webp",
+      "PackagePath": "staticwebassets\\img\\carousel-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\img\\dalo.jpg",
+      "PackagePath": "staticwebassets\\img\\dalo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookShop.props",
+      "PackagePath": "build\\BookShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShop.props",
+      "PackagePath": "buildMultiTargeting\\BookShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookShop.props",
+      "PackagePath": "buildTransitive\\BookShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

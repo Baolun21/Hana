@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\views\\thanhtoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\thanhtoan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\controllers\\thanhtoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\controllers\\thanhtoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\views\\ownerorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\ownerorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\views\\adminorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\adminorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|c:\\users\\baolun\\downloads\\shopbanhoa\\shopbanhoa\\bookshop\\views\\cart\\succ.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23346B28-0F2B-4F6E-8965-4BD0055F1D92}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\views\\cart\\succ.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\OwnerOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\OwnerOrder\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\OwnerOrder\\Index.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\OwnerOrder\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:02:40.783Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\ThanhToan\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\ThanhToan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\ThanhToan\\Index.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\ThanhToan\\Index.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwOAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T06:07:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThanhToanController.cs",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Controllers\\ThanhToanController.cs",
+              "RelativeDocumentMoniker": "BookShop\\Controllers\\ThanhToanController.cs",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Controllers\\ThanhToanController.cs",
+              "RelativeToolTip": "BookShop\\Controllers\\ThanhToanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:06:45.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T05:58:03.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T05:58:01.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookShop\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\appsettings.Development.json",
+              "RelativeToolTip": "BookShop\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T05:06:50.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\appsettings.json",
+              "RelativeDocumentMoniker": "BookShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\appsettings.json",
+              "RelativeToolTip": "BookShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T05:06:47.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAIBJwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:02:40.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Succ.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\Cart\\Succ.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Cart\\Succ.cshtml",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\Cart\\Succ.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Cart\\Succ.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:02:40.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:02:40.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\AdminOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookShop\\Views\\AdminOrder\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BAOLUN\\Downloads\\ShopBanHoa\\ShopBanHoa\\BookShop\\Views\\AdminOrder\\Index.cshtml",
+              "RelativeToolTip": "BookShop\\Views\\AdminOrder\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:02:40.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

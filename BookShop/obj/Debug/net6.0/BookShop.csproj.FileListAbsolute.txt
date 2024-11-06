@@ -1,0 +1,1690 @@
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\appsettings.Development.json
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\appsettings.json
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\BookShop.staticwebassets.runtime.json
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\BookShop.exe
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\BookShop.deps.json
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\BookShop.runtimeconfig.json
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\BookShop.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\BookShop.pdb
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Azure.Core.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Azure.Identity.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Humanizer.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\MessagePack.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.Common.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.CodeDom.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Text.Json.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.AssemblyReference.cache
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfoInputs.cache
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfo.cs
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.CoreCompileInputs.cache
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cache
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cs
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShop.props
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShop.props
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShop.props
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.build.json
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.development.json
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\scopedcss\bundle\BookShop.styles.css
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.bundle.scp.css
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.CopyComplete
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\refint\BookShop.dll
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.pdb
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\BookShop.genruntimeconfig.cache
+D:\Free\Doing\YuanYangg_1000\BookShop\BookShop\obj\Debug\net6.0\ref\BookShop.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\appsettings.json
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\BookShop.staticwebassets.runtime.json
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\BookShop.exe
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\BookShop.deps.json
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\BookShop.runtimeconfig.json
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\BookShop.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\BookShop.pdb
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.AssemblyReference.cache
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfoInputs.cache
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfo.cs
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cache
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cs
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShop.props
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShop.props
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShop.props
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\scopedcss\bundle\BookShop.styles.css
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.bundle.scp.css
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.CopyComplete
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\refint\BookShop.dll
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.pdb
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\BookShop.genruntimeconfig.cache
+C:\Users\Tuan Anh\Downloads\BookShop\BookShop\obj\Debug\net6.0\ref\BookShop.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\appsettings.Development.json
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\appsettings.json
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\BookShop.staticwebassets.runtime.json
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\BookShop.exe
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\BookShop.deps.json
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\BookShop.runtimeconfig.json
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\BookShop.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\BookShop.pdb
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Azure.Core.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Azure.Identity.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Humanizer.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\MessagePack.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\MessagePack.Annotations.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Build.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Mono.TextTemplating.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.Common.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.Configuration.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.Frameworks.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.LibraryModel.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.Packaging.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.ProjectModel.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.Protocol.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\NuGet.Versioning.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.CodeDom.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Convention.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Hosting.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Composition.Runtime.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Composition.TypedParts.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Drawing.Common.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Memory.Data.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Security.Permissions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Text.Json.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.AssemblyReference.cache
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfoInputs.cache
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfo.cs
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.CoreCompileInputs.cache
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cache
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cs
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.build.json
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.development.json
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShop.props
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShop.props
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShop.props
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\staticwebassets.pack.json
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\scopedcss\bundle\BookShop.styles.css
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.bundle.scp.css
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.CopyComplete
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\refint\BookShop.dll
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.pdb
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\BookShop.genruntimeconfig.cache
+I:\@2. Share Code\Asp.Net Core\code web-20231231T041757Z-001\code web\BookShop\BookShop\BookShop\obj\Debug\net6.0\ref\BookShop.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\appsettings.Development.json
+D:\doancuoi\BookShop\bin\Debug\net6.0\appsettings.json
+D:\doancuoi\BookShop\bin\Debug\net6.0\BookShop.staticwebassets.runtime.json
+D:\doancuoi\BookShop\bin\Debug\net6.0\BookShop.exe
+D:\doancuoi\BookShop\bin\Debug\net6.0\BookShop.deps.json
+D:\doancuoi\BookShop\bin\Debug\net6.0\BookShop.runtimeconfig.json
+D:\doancuoi\BookShop\bin\Debug\net6.0\BookShop.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\BookShop.pdb
+D:\doancuoi\BookShop\bin\Debug\net6.0\Azure.Core.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Azure.Identity.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Humanizer.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\MessagePack.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Build.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.Common.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.CodeDom.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Memory.Data.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Text.Json.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\doancuoi\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.csproj.AssemblyReference.cache
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfoInputs.cache
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfo.cs
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.csproj.CoreCompileInputs.cache
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cache
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cs
+D:\doancuoi\BookShop\obj\Debug\net6.0\staticwebassets.build.json
+D:\doancuoi\BookShop\obj\Debug\net6.0\staticwebassets.development.json
+D:\doancuoi\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\doancuoi\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShop.props
+D:\doancuoi\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShop.props
+D:\doancuoi\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShop.props
+D:\doancuoi\BookShop\obj\Debug\net6.0\staticwebassets.pack.json
+D:\doancuoi\BookShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\doancuoi\BookShop\obj\Debug\net6.0\scopedcss\bundle\BookShop.styles.css
+D:\doancuoi\BookShop\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.bundle.scp.css
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.csproj.CopyComplete
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.dll
+D:\doancuoi\BookShop\obj\Debug\net6.0\refint\BookShop.dll
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.pdb
+D:\doancuoi\BookShop\obj\Debug\net6.0\BookShop.genruntimeconfig.cache
+D:\doancuoi\BookShop\obj\Debug\net6.0\ref\BookShop.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\appsettings.Development.json
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\appsettings.json
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.staticwebassets.runtime.json
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.exe
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.deps.json
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.runtimeconfig.json
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.pdb
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Azure.Core.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Azure.Identity.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Humanizer.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\MessagePack.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Build.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Common.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.CodeDom.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Text.Json.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.csproj.AssemblyReference.cache
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfoInputs.cache
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfo.cs
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.csproj.CoreCompileInputs.cache
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cache
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cs
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets.build.json
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets.development.json
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShop.props
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShop.props
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShop.props
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\scopedcss\bundle\BookShop.styles.css
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.bundle.scp.css
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.csproj.CopyComplete
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.dll
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\refint\BookShop.dll
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.pdb
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.genruntimeconfig.cache
+D:\ShopBanHoa\BookShop\obj\Debug\net6.0\ref\BookShop.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\appsettings.json
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.staticwebassets.runtime.json
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.exe
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.deps.json
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.runtimeconfig.json
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\BookShop.pdb
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\MessagePack.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.csproj.AssemblyReference.cache
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfoInputs.cache
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfo.cs
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cache
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.RazorAssemblyInfo.cs
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.BookShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.build.BookShop.props
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookShop.props
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookShop.props
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\scopedcss\bundle\BookShop.styles.css
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\scopedcss\projectbundle\BookShop.bundle.scp.css
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.csproj.Up2Date
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\refint\BookShop.dll
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.pdb
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\BookShop.genruntimeconfig.cache
+C:\Users\BAOLUN\Downloads\ShopBanHoa\ShopBanHoa\BookShop\obj\Debug\net6.0\ref\BookShop.dll
